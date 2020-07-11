@@ -4,4 +4,4 @@
 I wanted to have a simple template for feature project white half a color and half an other. 
 
 ### As you can see here : 
-[logo]: https://github.com/jaimai/black-white/blob/master/visu.PNG
+[logo]:https://github.com/jaimai/black-white/blob/master/visu.PNG
