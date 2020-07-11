@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 1.5em;
+    font-family: sans-serif
+}
+h1{
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+
+.right{
+    width: 50%;
+    height: -webkit-fill-available;
+}
+.left{
+    background-color: black;
+    width: 60%;
+    height: -webkit-fill-available;
+}
+.left h1{    
+    margin-top: 50%;
+    color: whitesmoke;
+}
+.right h1{    
+    margin-top: 60%;
+    color: black;
+}
